@@ -1,4 +1,4 @@
-# My Personal Data Science Document
+# My Introduction
 
 **Name:** Abdullah Mahdi  
 **Program:** MS Data Science  
